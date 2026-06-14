@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I'm Result-driven Software Developer with 1+ years of hands-on experience in designing, developing, and maintaining scalable web applications.
-
-#🛠️ Technical Skills
-
  Programming Languages: JavaScript, TypeScript,
  Frameworks / Libraries: React.js, Next.js, Node.js, Express.js
  Database: MySQL, MongoDB, Postman
