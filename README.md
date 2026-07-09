@@ -47,7 +47,7 @@
 
 ---
 <p align="center">
-<b>## ✨ Fun Fact</b>
+<b>✨ Fun Fact ✨</b>
 </p>
 <p align="center">
 <b>I believe consistency beats talent. Keep building, keep growing 🚀</b>
