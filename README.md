@@ -33,14 +33,6 @@
 
 ---
 
-## 📌 Current Focus
-
-- ✅ Mastering **Data Structures & Algorithms**
-- ✅ Learning **System Design Fundamentals**
-- ✅ Building **Scalable MERN Stack Projects**
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: devangkartiksuryavanshi@gmail.com  
