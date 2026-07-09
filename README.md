@@ -46,9 +46,10 @@
 - 📧 Email: devangkartiksuryavanshi@gmail.com  
 
 ---
-
-## ✨ Fun Fact
 <p align="center">
-**I believe consistency beats talent. Keep building, keep growing 🚀"**
+<b>## ✨ Fun Fact</b>
+</p>
+<p align="center">
+<b>I believe consistency beats talent. Keep building, keep growing 🚀</b>
 </p>
 ---
